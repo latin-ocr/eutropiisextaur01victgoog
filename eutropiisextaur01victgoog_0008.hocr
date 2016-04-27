@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./eutropiisextaur01victgoog_0008.png"; bbox 0 0 2056 3628; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 150 984 790 1170">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 150 984 790 1170">
+     <span class='ocr_line' id='line_1_1' title="bbox 150 984 790 1170; baseline 0.036 -50"><span class='ocrx_word' id='word_1_1' title='bbox 150 984 790 1170; x_wconf 86' lang='lat' dir='ltr'>EUTROPIUS‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 106 1226 828 1468">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 106 1226 828 1468">
+     <span class='ocr_line' id='line_1_2' title="bbox 106 1226 828 1468; baseline 0.037 -81"><span class='ocrx_word' id='word_1_2' title='bbox 106 1226 277 1390; x_wconf 86' lang='lat' dir='ltr'>SEXT</span> <span class='ocrx_word' id='word_1_3' title='bbox 305 1305 583 1399; x_wconf 85' lang='lat' dir='ltr'><strong>AURELIUS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 607 1315 828 1468; x_wconf 90' lang='lat' dir='ltr'>VICTOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 240 1541 628 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 240 1541 628 1636">
+     <span class='ocr_line' id='line_1_3' title="bbox 240 1541 628 1636; baseline 0.031 -13"><span class='ocrx_word' id='word_1_5' title='bbox 240 1541 242 1544; x_wconf 46' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 315 1562 628 1636; x_wconf 72' lang='grc' dir='ltr'><strong><em>ΝΕεΝοΝ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 171 1806 755 1928">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 171 1806 755 1928">
+     <span class='ocr_line' id='line_1_4' title="bbox 171 1806 755 1928; baseline 0.036 -38"><span class='ocrx_word' id='word_1_7' title='bbox 171 1806 456 1898; x_wconf 80' lang='lat' dir='ltr'>SEXTUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 506 1815 755 1928; x_wconf 71' lang='lat' dir='ltr'>RUFUS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1032 3628">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1032 3628">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1032 3628; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1032 3628; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
